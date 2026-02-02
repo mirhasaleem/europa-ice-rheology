@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1>🧊 Inferring Europa’s Ice Rheology from Surface Roughness</h1>
+   <h1>Inferring Europa’s Ice Rheology from Surface Roughness</h1>
    <b>A planetary geoscience analysis using Galileo SSI imagery</b>
 </div>
 
